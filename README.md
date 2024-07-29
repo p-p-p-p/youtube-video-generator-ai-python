@@ -22,11 +22,16 @@ This project involves generating YouTube videos using various generative AI mode
    - **FFmpeg, Pillow, OpenCV:** These tools are used for video processing, image manipulation, and other tasks.
    - **Python Scripts:** Automate tasks like text-to-speech, video generation, and uploading.
 
-3. **Automation:**
-   - **Scheduled Requests:** The system is designed to send automated requests to LLMs daily at 6 pm to generate video content.
-   - **Full Automation:** Generates videos based on trending topics, including script, visuals, and background audio.
-   - **Upload & Monitoring:** Uses YouTube Data API v3 to upload videos and integrates with Discord or Telegram bots for monitoring.
-   - **Database:** MongoDB is used to store history and track video generation and upload status.
+### Current Automation
+
+Currently, video generation requires manually clicking a button in Google Colab. This process triggers the video creation but is not fully automated yet.
+
+### Future Automation
+
+1. **Scheduled Requests:** The system is designed to send automated requests to LLMs daily at 6 pm to generate video content.
+2. **Full Automation:** Generates videos based on trending topics, including script, visuals, and background audio.
+3. **Upload & Monitoring:** Uses YouTube Data API v3 to upload videos and integrates with Discord or Telegram bots for monitoring.
+4. **Database:** MongoDB is used to store history and track video generation and upload status.
 
 ### Current Status
 
