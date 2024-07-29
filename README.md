@@ -15,7 +15,7 @@ This project involves generating YouTube videos using various generative AI mode
 
 1. **Generative AI Models:**
    - **Script Generation:** Large language models like ChatGPT, Meta LLaMA, and Google Gemini are used to generate video scripts, titles, and tags.
-   - **Text-to-Image & Text-to-Video:** Different open-source generative AI models are used for creating visuals and video content from text prompts.
+   - **Text-to-Image & Text-to-Video:** Different open-source generative AI models are used for creating visuals and video content from text prompts.[ Better results can be achieved as more advanced open-source models become available. Companies are continually releasing new models, improving the quality and capabilities of generative AI. ]
    - **Background Music & SFX:** Open-source generative AI models are used to create background music and sound effects.
 
 2. **Tools & Libraries:**
