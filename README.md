@@ -24,7 +24,7 @@ This project involves generating YouTube videos using various generative AI mode
 
 ### Current Automation
 
-Currently, video generation requires manually clicking a button in Google Colab. This process triggers the video creation but is not fully automated yet.
+Currently, video generation requires manually clicking a button in Google Colab to trigger the video creation. This is a temporary solution due to budget constraints, which prevent the use of ChatGPT, Google Gemini API, and GPU-enabled servers. As a result, the system is not fully automated yet.
 
 ### Future Automation
 
